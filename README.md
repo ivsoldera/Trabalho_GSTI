@@ -6,8 +6,8 @@
 
 * [Descrição](#Descrição)
 * [Status](#Status)
-* [Como Utilizar](#Como%20Utilizar)
-* [Tecnologias Utilizadas](#Tecnologias%20Utilizadas)
+* [Como Utilizar](#Como-Utilizar)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Autor](#Autor)
 
 ## Descrição
@@ -17,7 +17,11 @@ Este diretório é destinado para salvar os scripts desenvolvidos para a discipl
 Todos os arquvos aqui adicionados já estão finalizados. 
 
 ## Como Utilizar
-Faça o download dos scripts, depois de realizar o download dos arquivos basta você abrir o Terminal, acessar a pasta onde os arquivos foram baixados e executar o comando ./nome_do_arquivo.sh
+Faça o download dos scripts, depois de realizar o download dos arquivos basta você abrir o Terminal.
+```bash
+# Acessar a pasta onde os arquivos foram baixados e executar o seguinte comando 
+$ ./nome_do_arquivo.sh
+```
 
 ## Tecnologias Utilizadas
 Nos scripts foi utilizado Shell Script para o desenvolvimento dos mesmos.
