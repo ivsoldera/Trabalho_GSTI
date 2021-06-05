@@ -6,8 +6,8 @@
 
 * [Descrição](#Descrição)
 * [Status](#Status)
-* [Como Utilizar](#ComoUtilizar)
-* [Tecnologias Utilizadas](#TecnologiasUtilizadas)
+* [Como Utilizar](#Como%20Utilizar)
+* [Tecnologias Utilizadas](#Tecnologias%20Utilizadas)
 * [Autor](#Autor)
 
 ## Descrição
